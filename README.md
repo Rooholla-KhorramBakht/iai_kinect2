@@ -1,7 +1,7 @@
 # Dockerized IAI Kinect2
 This repository is a dockerized CPU version of the original reference repository [here](https://github.com/code-iai/iai_kinect2). The idea is to simplify the usage through a docker image with minimal system dependent optional flags (e.g. CUDA ...). Simply make the image, run it, and subscribe to the topics within your local ROS system. 
 
-## Make The Image
+## How To Use
 Simply clone the repository and run the following within its root directory:
 
 ```bash
